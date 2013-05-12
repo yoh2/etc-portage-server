@@ -1,0 +1,4 @@
+cross-armeb-softfloat-linux-uclibc/binutils -selinux
+cross-armeb-softfloat-linux-uclibc/linux-headers -selinux
+cross-armeb-softfloat-linux-uclibc/uclibc -selinux
+cross-armeb-softfloat-linux-uclibc/gcc -selinux -boundschecking -d -fortran -gtk -gcj -libffi -mudflap -objc -objc++ -objc-gc -openmp nocxx

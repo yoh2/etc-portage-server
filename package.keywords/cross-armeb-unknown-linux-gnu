@@ -1,0 +1,6 @@
+cross-armeb-unknown-linux-gnu/binutils arm ~arm -amd64 -~amd64
+cross-armeb-unknown-linux-gnu/gcc arm ~arm -amd64 -~amd64
+cross-armeb-unknown-linux-gnu/linux-headers arm ~arm -amd64 -~amd64
+cross-armeb-unknown-linux-gnu/glibc arm ~arm -amd64 -~amd64
+cross-armeb-unknown-linux-gnu/gdb arm ~arm -amd64 -~amd64
+cross-armeb-unknown-linux-gnu/insight arm ~arm -amd64 -~amd64

@@ -1,0 +1,2 @@
+#required by dev-lang/go (argument)
+=dev-lang/go-1.0.2 ~amd64

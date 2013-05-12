@@ -1,0 +1,5 @@
+cross---verbose/binutils -multilib
+cross---verbose/gcc -multilib
+cross---verbose/linux-headers -multilib
+cross---verbose/gdb -multilib
+cross---verbose/insight -multilib

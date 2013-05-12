@@ -1,0 +1,5 @@
+cross-arm-linx/binutils arm ~arm -amd64 -~amd64
+cross-arm-linx/gcc arm ~arm -amd64 -~amd64
+cross-arm-linx/linux-headers arm ~arm -amd64 -~amd64
+cross-arm-linx/gdb arm ~arm -amd64 -~amd64
+cross-arm-linx/insight arm ~arm -amd64 -~amd64

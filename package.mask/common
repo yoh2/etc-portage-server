@@ -1,0 +1,5 @@
+>=app-emulation/vmware-server-2
+
+>cross-powerpc64-unknown-linux-gnu/binutils-2.18-r3
+>cross-powerpc64-unknown-linux-gnu/gcc-4.3.4
+>cross-powerpc64-unknown-linux-gnu/glibc-2.9_p20081201-r2

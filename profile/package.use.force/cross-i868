@@ -1,0 +1,5 @@
+cross-i868/binutils -multilib
+cross-i868/gcc -multilib
+cross-i868/linux-headers -multilib
+cross-i868/gdb -multilib
+cross-i868/insight -multilib

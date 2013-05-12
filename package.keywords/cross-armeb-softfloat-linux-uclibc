@@ -1,0 +1,6 @@
+cross-armeb-softfloat-linux-uclibc/binutils arm ~arm -amd64 -~amd64
+cross-armeb-softfloat-linux-uclibc/gcc arm ~arm -amd64 -~amd64
+cross-armeb-softfloat-linux-uclibc/linux-headers arm ~arm -amd64 -~amd64
+cross-armeb-softfloat-linux-uclibc/uclibc arm ~arm -amd64 -~amd64
+cross-armeb-softfloat-linux-uclibc/gdb arm ~arm -amd64 -~amd64
+cross-armeb-softfloat-linux-uclibc/insight arm ~arm -amd64 -~amd64

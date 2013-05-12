@@ -1,0 +1,90 @@
+app-admin/sudo		-skey
+app-arch/unzip		natspec
+app-arch/zip		natspec
+app-benchmarks/sysbench	aio
+app-crypt/heimdal	otp pkinit
+app-editors/vim		perl ruby python vim-pager
+app-editors/gvim	gtk perl ruby python
+app-emulation/libvirt	virt-network numa qemu
+app-portage/eix		sqlite
+app-portage/layman	bazaar cvs -darcs mercurial
+app-text/lcdf-typetools	kpathsea
+app-text/pdfgrep	unac
+app-text/texlive	context cyrillic doc extra games graphics humanities music omega pstricks -publishers science xetex
+app-text/texlive-core	xetex
+
+app-misc/screen		nethack
+
+dev-cpp/gtkmm		X
+dev-db/sqlite		extensions
+dev-lang/php		gd
+dev-lang/python		sqlite
+dev-libs/boost		threads bcp bjam pyste
+dev-libs/nss		utils
+dev-libs/STLport	boost
+dev-python/docutils	glep
+dev-vcs/subversion	-dso python perl
+dev-vcs/git		subversion
+
+games-misc/fortune-mod			offensive
+games-misc/fortune-mod-all		offensive
+games-misc/fortune-mod-gentoo-forums	offensive
+games-misc/fortune-mod-kernelcookies	offensive
+games-misc/fortune-mod-slackware	offensive
+
+mail-mta/postfix	cdb mbox dovecot-sasl vda
+media-gfx/splashutils	fbcondecor
+=media-libs/freetype-1*	kpathsea
+media-libs/gd		fontconfig
+media-libs/jpeg		static-libs
+media-libs/lcms		static-libs
+media-libs/libpng	static-libs
+virtual/ffmpeg		x264 mp3
+media-video/ffmpeg	aac aacplus faac x264 mp3
+media-video/libav	aac aacplus faac x264 mp3
+
+net-analyzer/net-snmp	diskio elf lm_sensors extensible
+net-analyzer/rrdtool	rrdcgi
+net-analyzer/tcpdump	-samba
+net-analyzer/wireshark	-gtk lua adns gcrypt geoip libadns portaudio python smi
+net-dialup/ppp		mppe-mppc
+net-dns/avahi		-python
+net-dns/bind		dlz -mysql caps -berkdb
+net-fs/cifs-utils	ads
+net-fs/samba		winbind swat ads
+net-fs/samba-client	winbind swat ads
+net-fs/samba-server	winbind swat ads
+net-fs/samba-libs	winbind swat ads tools
+net-mail/dovecot	pop3d mbox
+net-libs/libpcap	canusb netlink
+net-libs/neon		expat
+net-misc/curl		-gnutls
+net-misc/mediatomb	inotify thumbnail -libextractor
+net-misc/openssh	X
+net-nds/openldap	slp
+net-wireless/hostapd	madwifi logwatch
+net-wireless/ndiswrapper usb
+net-wireless/wpa_supplicant	madwifi wps eap-sim wimax
+www-apps/websvn		enscript
+www-apps/trac		cgi fastcgi vhosts mysql sqlite subversion
+www-servers/apache	threads doc suexec
+
+sci-misc/boinc		unicode -X -server
+
+sys-apps/dbus		X
+sys-apps/lm_sensors	sensord
+sys-apps/lshw		gtk
+sys-devel/clang		alltargets
+sys-devel/distcc	avahi
+sys-devel/gcc		gcj d objc objc++ objc-gc mudflap
+=sys-devel/gcc-4.1.2	-d
+sys-devel/llvm		alltargets
+sys-devel/llvm-gcc	objc objc++
+sys-fs/udev		extras
+sys-libs/glibc		glibc-omitfp
+sys-power/cpufreqd	lm_sensors pmu
+
+x11-libs/cairo		X svg
+x11-libs/gdk-pixbuf	X
+x11-libs/gtk+		X
+

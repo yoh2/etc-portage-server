@@ -1,0 +1,5 @@
+cross-darwin/binutils * ~* -amd64 -~amd64
+cross-darwin/gcc * ~* -amd64 -~amd64
+cross-darwin/linux-headers * ~* -amd64 -~amd64
+cross-darwin/gdb * ~* -amd64 -~amd64
+cross-darwin/insight * ~* -amd64 -~amd64

@@ -1,0 +1,4 @@
+cross-armeb-unknown-linux-gnu/binutils -selinux
+cross-armeb-unknown-linux-gnu/linux-headers -selinux
+cross-armeb-unknown-linux-gnu/glibc -selinux
+cross-armeb-unknown-linux-gnu/gcc -selinux -boundschecking -d -gtk -gcj -libffi -mudflap -objc -objc++ -objc-gc -openmp

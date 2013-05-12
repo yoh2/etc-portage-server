@@ -1,0 +1,5 @@
+cross-armeb-softfloat/binutils arm ~arm -amd64 -~amd64
+cross-armeb-softfloat/gcc arm ~arm -amd64 -~amd64
+cross-armeb-softfloat/linux-headers arm ~arm -amd64 -~amd64
+cross-armeb-softfloat/gdb arm ~arm -amd64 -~amd64
+cross-armeb-softfloat/insight arm ~arm -amd64 -~amd64

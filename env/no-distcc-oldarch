@@ -1,0 +1,5 @@
+FEATURES="${FEATURES} -distcc"
+MAKEOPTS="-j13"
+CFLAGS="-O3 -march=opteron -mtune=opteron -msse3 -pipe"
+CXXFLAGS="${CFLAGS}"
+FFLAGS="${CFLAGS}"

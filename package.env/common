@@ -1,0 +1,4 @@
+dev-lang/ghc		single-job
+
+sys-devel/gcc		no-distcc
+=sys-devel/gcc-4.1*	no-distcc-oldarch

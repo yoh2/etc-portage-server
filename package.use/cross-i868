@@ -1,0 +1,3 @@
+cross-i868/gdb sys-devel gdb
+cross-i868/insight dev-util insight
+cross-i868/binutils -selinux -multilib

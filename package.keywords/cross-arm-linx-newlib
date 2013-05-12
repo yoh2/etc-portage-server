@@ -1,0 +1,5 @@
+cross-arm-linx-newlib/binutils arm ~arm -amd64 -~amd64
+cross-arm-linx-newlib/gcc arm ~arm -amd64 -~amd64
+cross-arm-linx-newlib/newlib arm ~arm -amd64 -~amd64
+cross-arm-linx-newlib/gdb arm ~arm -amd64 -~amd64
+cross-arm-linx-newlib/insight arm ~arm -amd64 -~amd64

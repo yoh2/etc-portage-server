@@ -1,0 +1,165 @@
+=app-admin/eselect-1.0.11	~amd64
+=app-admin/eselect-news-20071201	~amd64
+=app-admin/eselect-python-20090824	~amd64
+app-antivirus/bitdefender-console	-amd64
+app-emulation/vmware-modules	~amd64
+app-emulation/vmware-server	~amd64 **
+app-emulation/vmware-vix	~amd64 **
+app-text/dvipdfm		~amd64
+app-text/dvipsk			~amd64
+app-text/dvisvgm		~amd64
+app-text/jadetex		~amd64
+app-text/lcdf-typetools		~amd64
+app-text/passivetex		~amd64
+app-text/pdfgrep		~amd64
+app-text/ps2eps			~amd64
+app-text/ps2pkm			~amd64
+app-text/qpdf			~amd64
+app-text/teckit			~amd64
+app-text/texlive		~amd64
+app-text/texlive-core		~amd64
+app-text/xdvipdfmx		~amd64
+
+app-misc/sl			~amd64
+
+dev-java/icedtea6		~amd64
+# move dev-java/icedtea6-bin dev-java/icedtea-bin
+dev-java/icedtea-bin		~amd64
+dev-lang/dmd			~amd64 ~x86
+dev-lang/dmd-bin		~amd64 ~x86
+>=dev-libs/libsigsegv-2.4	~amd64
+dev-libs/iniparser		~amd64
+dev-libs/kpathsea		~amd64
+# move dev-lisp/cl-asdf-binary-locations dev-lisp/asdf-binary-locations
+dev-lisp/asdf-binary-locations	~amd64
+dev-libs/phobos			~amd64
+dev-libs/ptexenc		~amd64
+dev-python/pyyaml		~amd64
+dev-vcs/gti			**
+dev-util/dmd-common		~amd64
+
+dev-tex/bibtexu			~amd64
+dev-tex/cjk-latex		~amd64
+dev-tex/currvita		~amd64
+dev-tex/detex			~amd64
+dev-tex/dot2texi		~amd64
+dev-tex/envlab			~amd64
+dev-tex/g-brief			~amd64
+dev-tex/glossaries		~amd64
+dev-tex/latex-beamer		~amd64
+dev-tex/latexmk			~amd64
+dev-tex/leaflet			~amd64
+dev-tex/luatex			~amd64
+dev-tex/mh			~amd64
+dev-tex/mplib			~amd64
+dev-tex/pgf			~amd64
+dev-tex/svninfo			~amd64
+dev-tex/tex4ht			~amd64
+dev-tex/translator		~amd64
+dev-tex/xcolor			~amd64
+dev-tex/xmltex			~amd64
+
+dev-texlive/texlive-basic	~amd64
+dev-texlive/texlive-bibtexextra	~amd64
+dev-texlive/texlive-context	~amd64
+dev-texlive/texlive-documentation-base	~amd64
+dev-texlive/texlive-documentation-chinese	~amd64
+dev-texlive/texlive-documentation-english	~amd64
+dev-texlive/texlive-documentation-french	~amd64
+dev-texlive/texlive-documentation-german	~amd64
+dev-texlive/texlive-documentation-japanese	~amd64
+dev-texlive/texlive-fontsextra	~amd64
+dev-texlive/texlive-fontsrecommended	~amd64
+dev-texlive/texlive-fontutils		~amd64
+dev-texlive/texlive-formatsextra	~amd64
+dev-texlive/texlive-games	~amd64
+dev-texlive/texlive-genericrecommended	~amd64
+dev-texlive/texlive-genericextra	~amd64
+dev-texlive/texlive-htmlxml	~amd64
+dev-texlive/texlive-humanities	~amd64
+dev-texlive/texlive-langcjk	~amd64
+dev-texlive/texlive-langcyrillic	~amd64
+dev-texlive/texlive-langenglish	~amd64
+dev-texlive/texlive-langfrench	~amd64
+dev-texlive/texlive-langgerman	~amd64
+dev-texlive/texlive-langgreek	~amd64
+dev-texlive/texlive-langlatin	~amd64
+dev-texlive/texlive-latex	~amd64
+dev-texlive/texlive-latexextra	~amd64
+dev-texlive/texlive-latexrecommended	~amd64
+dev-texlive/texlive-mathextra	~amd64
+dev-texlive/texlive-metapost	~amd64
+dev-texlive/texlive-music	~amd64
+dev-texlive/texlive-omega	~amd64
+dev-texlive/texlive-pictures	~amd64
+dev-texlive/texlive-plainextra	~amd64
+dev-texlive/texlive-fontutils	~amd64
+dev-texlive/texlive-pstricks	~amd64
+dev-texlive/texlive-science	~amd64
+dev-texlive/texlive-texinfo	~amd64
+dev-texlive/texlive-xetex	~amd64
+
+games-roguelike/nethack		~amd64
+
+media-gfx/sam2p			~amd64
+media-libs/silgraphite		~amd64
+
+net-dialup/pptpd		~amd64
+>=net-misc/curl-7.15.5		~amd64	# for boinc
+net-misc/ifenslave		~amd64
+net-misc/netkit-talk		~amd64
+net-misc/strongswan
+net-firewall/ipsec-tools	~amd64
+net-fs/samba
+net-fs/samba-client
+net-fs/samba-libs
+net-fs/samba-server
+net-print/cups			~amd64
+net-print/cups-filters		~amd64
+net-print/gutenprint		~amd64
+net-wireless/hostapd		~amd64
+net-wireless/ndiswrapper	~amd64
+net-wireless/wpa_supplicant	~amd64
+
+sys-apps/edac-utils		~amd64
+sys-apps/ccs-tools		~amd64
+sys-apps/ipmitool		~amd64
+sys-apps/keyutils
+=sys-apps/portage-2.2*		~amd64
+=sys-apps/sandbox-2.2*		~amd64
+=sys-devel/gcc-4.2*		~amd64
+=sys-devel/gcc-4.3*		~amd64
+=sys-devel/gcc-4.6.3		~amd64
+=sys-devel/gcc-4.7.2		~amd64
+=sys-libs/glibc-2.7-r2		~amd64
+sys-devel/clang			~amd64
+sys-devel/llvm			~amd64
+sys-devel/llvm-gcc		~amd64
+sys-devel/libtool		~amd64
+sys-fs/mp3fs			~amd64
+# move sys-kernel/amd-ucode sys-firmware/amd-ucode
+sys-firmware/amd-ucode		~amd64
+sys-libs/openipmi		~amd64
+sys-libs/talloc
+sys-libs/tdb
+sys-apps/tomoyo-tools		~amd64
+
+www-apps/websvn			~amd64
+
+sci-misc/boinc			~amd64 
+#required by net-fs/samba-3.6.3[client], required by @selected, required by @world (argument)
+>=net-fs/cifs-utils-5.3 ~amd64
+#required by app-text/dvisvgm-1.0.10, required by app-text/texlive-2011[extra], required by @selected, required by @world (argument)
+>=media-gfx/potrace-1.10-r1 ~amd64
+#required by dev-lang/php-5.3.10[cjk,-xpm,-zip,truetype,zlib,-exif,gd], required by net-print/cups-1.4.8-r1[php], required by net-print/foomatic-filters-4.0.9[cups], required by net-print/foomatic-filters-ppds-20070501, required by @selected, required by @world (argument)
+>=sys-libs/zlib-1.2.6 ~amd64
+#required by app-emulation/vmware-modules-264.2-r2
+=app-emulation/vmware-player-4.0.2.591240-r1 ~amd64
+#required by app-emulation/vmware-player-4.0.2.591240-r1[vmware-tools], required by app-emulation/vmware-modules-264.2-r2
+=app-emulation/vmware-tools-8.8.2.591240 ~amd64
+#required by icedtea:7 (argument)
+=dev-java/icedtea-7.2.2 ~amd64
+#required by dev-java/icedtea-7.2.2[webstart], required by icedtea:7 (argument)
+=dev-java/icedtea-web-1.2-r7 ~amd64
+#required by app-text/texlive-2012[truetype], required by @selected, required by @world (argument)
+=app-text/ttf2pk2-1.5_p20120701 ~amd64

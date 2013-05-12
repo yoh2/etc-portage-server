@@ -1,0 +1,19 @@
+=app-emulation/vmware-server-2*
+=app-emulation/vmware-modules-1.0.0.22
+
+=games-roguelike/nethack-3.4.3*
+
+=net-fs/samba-3.3.6*
+=net-fs/samba-client-3.3.6*
+=net-fs/samba-libs-3.3.6*
+=net-fs/samba-server-3.3.6*
+
+=sys-apps/portage-2.2*
+
+=sys-devel/gcc-4.7.2
+
+#required by =app-emulation/vmware-modules-208.2 (argument)
+# /var/lib/layman/vmware/profiles/package.mask:
+# multiple vulnerabilities. Bug 374599
+# Bug 354383
+=app-emulation/vmware-modules-208.2
