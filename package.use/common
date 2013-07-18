@@ -50,7 +50,7 @@ net-analyzer/wireshark	-gtk lua adns gcrypt geoip libadns portaudio python smi
 net-dialup/ppp		mppe-mppc
 net-dns/avahi		-python
 net-dns/bind		dlz -mysql caps -berkdb
-net-fs/cifs-utils	ads
+net-fs/cifs-utils	ads upcall
 net-fs/samba		winbind swat ads
 net-fs/samba-client	winbind swat ads
 net-fs/samba-server	winbind swat ads

@@ -1,2 +1,25 @@
 #required by dev-lang/go (argument)
 =dev-lang/go-1.0.2 ~amd64
+# required by net-analyzer/openvas-4
+# required by openvas (argument)
+=net-analyzer/openvas-libraries-4.0.5 ~amd64
+# required by openvas (argument)
+=net-analyzer/openvas-4 ~amd64
+# required by net-analyzer/openvas-4
+# required by openvas (argument)
+=net-analyzer/greenbone-security-desktop-1.2.0 ~amd64
+# required by net-analyzer/openvas-4
+# required by openvas (argument)
+=net-analyzer/openvas-cli-1.1.2 ~amd64
+# required by net-analyzer/openvas-4
+# required by openvas (argument)
+=net-analyzer/openvas-manager-2.0.4 ~amd64
+# required by net-analyzer/openvas-4
+# required by openvas (argument)
+=net-analyzer/openvas-administrator-1.1.1 ~amd64
+# required by net-analyzer/openvas-4
+# required by openvas (argument)
+=net-analyzer/greenbone-security-assistant-2.0.1 ~amd64
+# required by net-analyzer/openvas-4
+# required by openvas (argument)
+=net-analyzer/openvas-scanner-3.2.4 ~amd64
