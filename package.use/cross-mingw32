@@ -1,4 +1,4 @@
 cross-mingw32/binutils -selinux -multilib
 cross-mingw32/w32api -selinux -multilib
 cross-mingw32/mingw-runtime -selinux -multilib
-cross-mingw32/gcc -selinux -boundschecking -d -gtk -gcj -libffi -mudflap -objc -objc++ -objc-gc -fortran nocxx -cxx -openmp -multilib
+cross-mingw32/gcc -selinux -boundschecking -d -gcj -gtk -libffi -mudflap -objc -objc++ -objc-gc -multilib

@@ -19,11 +19,13 @@ dev-cpp/gtkmm		X
 dev-db/sqlite		extensions
 dev-lang/php		gd
 dev-lang/python		sqlite
+dev-lang/R		cairo
 dev-libs/boost		threads bcp bjam pyste
 dev-libs/nss		utils
+dev-libs/openssl	-kerberos
 dev-libs/STLport	boost
 dev-python/docutils	glep
-dev-vcs/subversion	-dso python perl
+dev-vcs/subversion	-dso python perl webdav-neon
 dev-vcs/git		subversion
 
 games-misc/fortune-mod			offensive
@@ -38,6 +40,7 @@ media-gfx/splashutils	fbcondecor
 media-libs/gd		fontconfig
 media-libs/jpeg		static-libs
 media-libs/lcms		static-libs
+media-libs/libjpeg-turbo	-java
 media-libs/libpng	static-libs
 virtual/ffmpeg		x264 mp3
 media-video/ffmpeg	aac aacplus faac x264 mp3

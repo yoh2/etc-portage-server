@@ -6,3 +6,48 @@
 =x11-libs/vte-0.28.2-r203 python
 #required by app-emulation/virt-manager-0.9.1, required by virt-manager (argument)
 >=dev-libs/libxml2-2.8.0-r2 python
+# required by dev-lang/ruby-2.0.0_p353
+# required by app-editors/vim-7.4.273[ruby]
+# required by app-vim/gentoo-syntax-20130619
+# required by app-editors/vim-core-7.4.273[-minimal]
+=dev-ruby/rubygems-2.0.14 ruby_targets_ruby20
+# required by net-print/cups-1.7.4
+# required by dev-java/icedtea-bin-6.1.13.3-r3[cups]
+# required by virtual/jdk-1.6.0-r2::pentoo
+# required by sys-devel/gettext-0.18.3.2[java]
+# required by sys-devel/flex-2.5.39-r1[nls]
+# required by sys-devel/binutils-2.23.2
+# required by sys-devel/gcc-4.7.3-r1
+# required by sys-libs/glibc-2.17
+# required by sys-libs/pam-1.1.8-r2
+# required by virtual/pam-0-r1
+# required by net-fs/samba-3.6.12
+# required by @selected
+# required by @world (argument)
+=app-text/ghostscript-gpl-9.10-r2 cups
+# required by dev-lang/ruby-2.0.0_p353[rdoc]
+# required by app-editors/vim-7.4.273[ruby]
+# required by app-vim/gentoo-syntax-20130619
+# required by app-editors/vim-core-7.4.273[-minimal]
+=dev-ruby/rdoc-4.0.1-r1 ruby_targets_ruby20
+# required by dev-lang/ruby-2.0.0_p353
+# required by app-editors/vim-7.4.273[ruby]
+# required by app-vim/gentoo-syntax-20130619
+# required by app-editors/vim-core-7.4.273[-minimal]
+=dev-ruby/json-1.8.0 ruby_targets_ruby20
+# required by dev-lang/ruby-2.0.0_p353
+# required by app-editors/vim-7.4.273[ruby]
+# required by app-vim/gentoo-syntax-20130619
+# required by app-editors/vim-core-7.4.273[-minimal]
+=dev-ruby/rake-0.9.6 ruby_targets_ruby20
+# required by dev-lang/R-3.2.2::gentoo
+# required by @selected
+# required by @world (argument)
+>=sys-libs/zlib-1.2.8-r1 minizip
+# required by app-text/texlive-core-2015::gentoo[xetex]
+# required by dev-texlive/texlive-fontutils-2015::gentoo
+# required by virtual/latex-base-1.0::gentoo
+# required by dev-scheme/plt-scheme-4.1::gentoo
+# required by @selected
+# required by @world (argument)
+>=media-libs/harfbuzz-0.9.41 icu

@@ -19,3 +19,4 @@ cross--v
 cross---verbose
 cross-i868
 cross-arm-unknown-linux-gnueabi
+cross-armv6j-hardfloat-linux-gnueabi
